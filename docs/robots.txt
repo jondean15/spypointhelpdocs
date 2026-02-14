@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://spypointhelpdocs.readthedocs.io/en/latest/
